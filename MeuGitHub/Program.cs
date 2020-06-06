@@ -9,8 +9,12 @@ namespace MeuGitHub
             Console.WriteLine("Hello World!");
         }
 
-
         static void EscreveNaTela(String texto)
+        {
+            Console.WriteLine(texto);
+        }
+
+        static void EscreveNaTela(String texto, String texto2)
         {
             Console.WriteLine(texto);
         }
