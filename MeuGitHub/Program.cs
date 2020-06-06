@@ -12,7 +12,7 @@ namespace MeuGitHub
 
         static void EscreveNaTela(String texto)
         {
-            Console.WriteLinetexto);
+            Console.WriteLine(texto);
         }
 
         static void Main(string[] args)
