@@ -4,9 +4,14 @@ namespace MeuGitHub
 {
     class Program
     {
-        static void Main(string[] args)
+        static void EscreveNaTela()
         {
             Console.WriteLine("Hello World!");
+        }
+
+        static void Main(string[] args)
+        {
+            EscreveNaTela();
             Console.ReadKey();
         }
     }
