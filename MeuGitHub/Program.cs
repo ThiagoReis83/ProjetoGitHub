@@ -11,7 +11,7 @@ namespace MeuGitHub
 
         static void EscreveNaTela(String texto)
         {
-            Console.WriteLine(texto);
+            Console.WriteLinetexto);
         }
 
         static void EscreveNaTela(String texto, String texto2)
